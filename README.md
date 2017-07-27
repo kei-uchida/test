@@ -1,6 +1,6 @@
 git commit --amend
- �X�e�[�W�ɒǉ���ɁA�u�R�~�b�g����蒼���v�Ƀ`�F�b�N�{�b�N�X�����āu�R�~�b�g�v���s��
+ ステージに追加後に、「コミットをやり直す」にチェックボックスをつけて「コミット」を行う
 git reset --hard
- �X�e�[�W�ɒǉ���ɁA�u���ׂĂ̕ύX���������v���s���B
+ ステージに追加後に、「すべての変更を取り消し」を行う。
 git pull --rebase
  
